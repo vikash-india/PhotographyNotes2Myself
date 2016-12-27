@@ -11,7 +11,13 @@
 - Taking pictures of light painting.
 - Taking pictures of shooting fireworks.
 
-### Steps to Set Bulb Mode in Nikon D90
+### Bulb Mode in Nikon D90
 1. Set the mode dial to manual (M) 
 2. Set the shutter speed to one click to the left of 30 seconds. Two dashes (--) should be displayed. 
 3. Press the remote to open the shutter. Press it again, even hours later, to close the shutter.
+
+### Bulb Mode in Nikon D7200
+- None
+
+### Bulb Mode in iPhone 7 Plus
+- None
