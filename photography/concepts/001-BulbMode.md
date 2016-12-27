@@ -4,7 +4,7 @@
 - Bulb mode is used to take pictures with exposures longer than 30 seconds (30"). 
 - The shutter opens up on pressing the shutter button and remains opened as long as the shutter button is not pressed 
   again to close the shutter.
-  
+
 ### Uses of Bulb Mode
 - Taking pictures of lightning.
 - Taking pictures of star trails.
