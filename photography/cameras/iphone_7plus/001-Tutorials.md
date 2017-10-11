@@ -1,7 +1,7 @@
 # Description: iPhone 7 Plus Photography Tutorials
 
 ### iPhone 7 Plus Photography Tutorials
-1. [How to shoot a great portrait.](tutorials/iphone7-01-shoot-great-portrait.mp4)
+1. [How to shoot a great portrait.](tutorials/iphone7-01-shoot-great-portrait.mp4?raw=true)
 1. [How to shoot a close-up.](tutorials/iphone7-02-shoot-close-up.mp4)
 1. [How to shoot a vertical panorama.](tutorials/iphone7-03-shoot-vertical-pano.mp4)
 1. [How to shoot without a flash.](tutorials/iphone7-04-shoot-without-flash.mp4)
