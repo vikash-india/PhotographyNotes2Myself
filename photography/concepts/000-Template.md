@@ -6,11 +6,8 @@
 ### Uses of Write Here
 - None
 
-### Write Here in Nikon D90
+### Notes
 - None
 
-### Write Here in Nikon D7200
-- None
-
-### Write Here in iPhone 7 Plus
+### TODOs
 - None
