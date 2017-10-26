@@ -34,6 +34,10 @@
 
 - **Zoom Lens**: Lens with variable focal lengths.
 
+- **CMOS**: Complementary Metal Oxide Sensors where pixels are exposed one at a time like TV.
+
+- **Bayer Array**: TODO
+
 ### Notes
 - None
 
