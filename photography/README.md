@@ -10,6 +10,7 @@
 - [Understanding ISO](concepts/004-UnderstandingISO.md)
 - [Understanding Lens](concepts/005-UnderstandingLens.md)
 - [Understanding Exposure](concepts/006-UnderstandingExposure.md)
+- [Understanding Flash](concepts/007-UnderstandingFlash.md)
 
 ### iPhone 7 Plus
 - [None](#)
