@@ -13,7 +13,7 @@
 * Click Menu - Image - Crop.
 
 ### Notes
-- None
+* None
 
 ### TODO
-- None
+* None

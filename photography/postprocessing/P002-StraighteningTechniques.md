@@ -17,7 +17,7 @@
 * Now crop the image using [Cropping Techniques](P001-CroppingTechniques.md).
 
 ### Notes
-- None
+* None
 
 ### TODO
-- None
+* None

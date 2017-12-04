@@ -73,7 +73,7 @@
 * Click on Blend Mode - Multiply to make it darker.
 
 ### Notes
-- None
+* None
 
 ### TODO
-- None
+* None
