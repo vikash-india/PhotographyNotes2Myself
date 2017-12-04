@@ -13,6 +13,12 @@
 - [Understanding Exposure](concepts/006-UnderstandingExposure.md)
 - [Understanding Flash](concepts/007-UnderstandingFlash.md)
 
+### Postprocessing Concepts
+1. [Cropping Techniques](postprocessing/P001-CroppingTechniques.md)
+1. [Straightening Techniques](postprocessing/P002-StraighteningTechniques.md)
+1. [Color Correction Techniques](postprocessing/P003-ColourCorrectionTechniques.md)
+1. [Image Sharpening Techniques](postprocessing/P004-SharpeningTechniques.md)
+
 ### iPhone 7 Plus Camera Tutorials
 1. [How to shoot a great portrait.](cameras/iphone_7plus/tutorials/iphone7-01-shoot-great-portrait.mp4?raw=true)
 1. [How to shoot a close-up.](cameras/iphone_7plus/tutorials/iphone7-02-shoot-close-up.mp4?raw=true)
