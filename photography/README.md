@@ -18,6 +18,8 @@
 1. [Straightening Techniques](postprocessing/P002-StraighteningTechniques.md)
 1. [Color Correction Techniques](postprocessing/P003-ColourCorrectionTechniques.md)
 1. [Image Sharpening Techniques](postprocessing/P004-SharpeningTechniques.md)
+1. [Unwanted Object Removal Techniques](postprocessing/P005-UnwantedObjectsRemovalTechniques.md)
+1. [Photographic Blemishes Removal Techniques](postprocessing/P006-PhotographicBlemishesRemovalTechniques.md)
 
 ### iPhone 7 Plus Camera Tutorials
 1. [How to shoot a great portrait.](cameras/iphone_7plus/tutorials/iphone7-01-shoot-great-portrait.mp4?raw=true)
