@@ -1,26 +1,33 @@
 # Description: Photography Index
 
-### Workflows
-- [Philosophical Workflow](workflows/001-PhilosophicalWorkflow.md)
-- [Initial Setup Workflow](workflows/002-InitialSetupWorkflow.md)
+### Photography Workflows
+- [Philosophical Workflow](photography_workflows/001-PhilosophicalWorkflow.md)
+- [Initial Setup Workflow](photography_workflows/002-InitialSetupWorkflow.md)
+
+### Postprocessing Workflows
+1. [Cropping Techniques](postprocessing_workflows/P001-CroppingTechniques.md)
+1. [Straightening Techniques](postprocessing_workflows/P002-StraighteningTechniques.md)
+1. [Color Correction Techniques](postprocessing_workflows/P003-ColourCorrectionTechniques.md)
+1. [Image Sharpening Techniques](postprocessing_workflows/P004-SharpeningTechniques.md)
+1. [Techniques to Remove Unwanted Object](postprocessing_workflows/P005-UnwantedObjectsRemovalTechniques.md)
+1. [Techniques to Remove Photographic Blemishes](postprocessing_workflows/P006-PhotographicBlemishesRemovalTechniques.md)
+1. [Techniques to Remove Dark Circles Under the Eyes](postprocessing_workflows/P007-DarkCirlesUnderEyesRemovalTechniques.md)
 
 ### Photography Concepts
-- [Terminologies](concepts/001-Terminologies.md)
-- [Understanding Aperture](concepts/002-UnderstandingAperture.md)
-- [Understanding Shutter Speed](concepts/003-UnderstandingShutterSpeed.md)
-- [Understanding ISO](concepts/004-UnderstandingISO.md)
-- [Understanding Lens](concepts/005-UnderstandingLens.md)
-- [Understanding Exposure](concepts/006-UnderstandingExposure.md)
-- [Understanding Flash](concepts/007-UnderstandingFlash.md)
+- [Terminologies](photography_concepts/001-Terminologies.md)
+- [Understanding Aperture](photography_concepts/002-UnderstandingAperture.md)
+- [Understanding Shutter Speed](photography_concepts/003-UnderstandingShutterSpeed.md)
+- [Understanding ISO](photography_concepts/004-UnderstandingISO.md)
+- [Understanding Lens](photography_concepts/005-UnderstandingLens.md)
+- [Understanding Exposure](photography_concepts/006-UnderstandingExposure.md)
+- [Understanding Flash](photography_concepts/007-UnderstandingFlash.md)
 
-### Postprocessing Concepts
-1. [Cropping Techniques](postprocessing/P001-CroppingTechniques.md)
-1. [Straightening Techniques](postprocessing/P002-StraighteningTechniques.md)
-1. [Color Correction Techniques](postprocessing/P003-ColourCorrectionTechniques.md)
-1. [Image Sharpening Techniques](postprocessing/P004-SharpeningTechniques.md)
-1. [Techniques to Remove Unwanted Object](postprocessing/P005-UnwantedObjectsRemovalTechniques.md)
-1. [Techniques to Remove Photographic Blemishes](postprocessing/P006-PhotographicBlemishesRemovalTechniques.md)
-1. [Techniques to Remove Dark Circles Under the Eyes](postprocessing/P007-DarkCirlesUnderEyesRemovalTechniques.md)
+### Photoshop Concepts
+* [Photoshop Workarea](photoshop_concepts/images/cs6-01-workarea.png)
+* [Photoshop Keyboard Shortcuts](photoshop_concepts/images/cs6-02-keyboard-shortcuts.jpg)
+* [Photoshop Tips](photoshop_concepts/P001-Tips.md)
+* [Photoshop Troubleshooting](photoshop_concepts/P002-Troubleshooting.md)
+* [Understanding Curves](photoshop_concepts/P003-UnderstandingCurves.md)
 
 ### iPhone 7 Plus Camera Tutorials
 1. [How to shoot a great portrait.](cameras/iphone_7plus/tutorials/iphone7-01-shoot-great-portrait.mp4?raw=true)
