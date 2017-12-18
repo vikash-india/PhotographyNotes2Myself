@@ -60,3 +60,8 @@
 
 ### Nikon D90
 * [None](#)
+
+### Online Resources
+* [Photoshop Keyboard Shortcuts](https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html): A list of 
+  default keyboard shortcuts for photoshop.
+
