@@ -1,8 +1,8 @@
 # Description: Photography Index
 
 ### Photography Workflows
-- [Philosophical Workflow](photography_workflows/001-PhilosophicalWorkflow.md)
-- [Initial Setup Workflow](photography_workflows/002-InitialSetupWorkflow.md)
+1. [Philosophical Workflow](photography_workflows/001-PhilosophicalWorkflow.md)
+1. [Initial Setup Workflow](photography_workflows/002-InitialSetupWorkflow.md)
 
 ### Postprocessing Workflows
 1. [Cropping Techniques](postprocessing_workflows/P001-CroppingTechniques.md)
@@ -15,20 +15,20 @@
 1. [Techniques to Enhance Contrasts](postprocessing_workflows/P008-ContrastEnhancementTechniques.md)
 
 ### Photography Concepts
-- [Terminologies](photography_concepts/001-Terminologies.md)
-- [Understanding Aperture](photography_concepts/002-UnderstandingAperture.md)
-- [Understanding Shutter Speed](photography_concepts/003-UnderstandingShutterSpeed.md)
-- [Understanding ISO](photography_concepts/004-UnderstandingISO.md)
-- [Understanding Lens](photography_concepts/005-UnderstandingLens.md)
-- [Understanding Exposure](photography_concepts/006-UnderstandingExposure.md)
-- [Understanding Flash](photography_concepts/007-UnderstandingFlash.md)
+1. [Terminologies](photography_concepts/001-Terminologies.md)
+1. [Understanding Aperture](photography_concepts/002-UnderstandingAperture.md)
+1. [Understanding Shutter Speed](photography_concepts/003-UnderstandingShutterSpeed.md)
+1. [Understanding ISO](photography_concepts/004-UnderstandingISO.md)
+1. [Understanding Lens](photography_concepts/005-UnderstandingLens.md)
+1. [Understanding Exposure](photography_concepts/006-UnderstandingExposure.md)
+1. [Understanding Flash](photography_concepts/007-UnderstandingFlash.md)
 
 ### Photoshop Concepts
-* [Photoshop Workarea](photoshop_concepts/images/cs6-01-workarea.png)
-* [Photoshop Keyboard Shortcuts](photoshop_concepts/images/cs6-02-keyboard-shortcuts.jpg)
-* [Photoshop Tips](photoshop_concepts/P001-Tips.md)
-* [Photoshop Troubleshooting](photoshop_concepts/P002-Troubleshooting.md)
-* [Understanding Curves](photoshop_concepts/P003-UnderstandingCurves.md)
+1. [Photoshop Workarea](photoshop_concepts/images/cs6-01-workarea.png)
+1. [Photoshop Keyboard Shortcuts](photoshop_concepts/images/cs6-02-keyboard-shortcuts.jpg)
+1. [Photoshop Tips](photoshop_concepts/P001-Tips.md)
+1. [Photoshop Troubleshooting](photoshop_concepts/P002-Troubleshooting.md)
+1. [Understanding Curves](photoshop_concepts/P003-UnderstandingCurves.md)
 
 ### iPhone 7 Plus Camera Tutorials
 1. [How to shoot a great portrait.](cameras/iphone_7plus/tutorials/iphone7-01-shoot-great-portrait.mp4?raw=true)
@@ -53,10 +53,10 @@
 1. [How to shoot a backlit subject.](cameras/iphone_7plus/tutorials/iphone7-20-shoot-a-backlit-subject.mp4?raw=true)
 
 ##### Note
-- Source: [Apple iPhone 7 Plus Photography](https://www.apple.com/in/iphone/photography-how-to/)
+* Source: [Apple iPhone 7 Plus Photography](https://www.apple.com/in/iphone/photography-how-to/)
 
 ### Nikon D7200
-- [None](#)
+* [None](#)
 
 ### Nikon D90
-- [None](#)
+* [None](#)
