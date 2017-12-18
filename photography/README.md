@@ -12,6 +12,7 @@
 1. [Techniques to Remove Unwanted Object](postprocessing_workflows/P005-UnwantedObjectsRemovalTechniques.md)
 1. [Techniques to Remove Photographic Blemishes](postprocessing_workflows/P006-PhotographicBlemishesRemovalTechniques.md)
 1. [Techniques to Remove Dark Circles Under the Eyes](postprocessing_workflows/P007-DarkCirlesUnderEyesRemovalTechniques.md)
+1. [Techniques to Enhance Contrasts](postprocessing_workflows/P008-ContrastEnhancementTechniques.md)
 
 ### Photography Concepts
 - [Terminologies](photography_concepts/001-Terminologies.md)
