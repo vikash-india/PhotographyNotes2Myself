@@ -11,8 +11,8 @@
 * Set Options for healing brush tool as follows
     - Mode: Normal
     - Source: Sampled checkbox selected.
-    - Aligned Sample: Checked
-    - [Important] Aligned Sample Drop Downs: Current & Below or All Layers
+    - Aligned: Default
+    - [Important] Sample: Current & Below or All Layers
 * Use a very small size brush and apply healings to photographic blemishes.
     - Sample Pattern: Use Alt + Click to get the pattern information from an area of the photo to be used for healing.
       Unlike clone tool, only the pattern information is sampled and not the image area as in clone tool.

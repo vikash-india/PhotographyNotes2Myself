@@ -8,8 +8,8 @@
     - Mode: Normal
     - Opacity: 100%
     - Flow: 100%
-    - Aligned Sample: Checked
-    - [Important] Aligned Sample Drop Downs: Current & Below or All Layers
+    - Aligned: Default
+    - [Important] Sample: Current & Below or All Layers
 * Remove object
     - Use [ or ] to increase or decrease the size of the clone stamp tool.
     - Re-sample Image: Use Alt + Click to select the area of the photo to be used as source.
