@@ -1,5 +1,8 @@
 # Description: Techniques to Remove Unwanted Objects
 
+### Concepts
+* None
+
 ### Method 1: Using Clone Stamp Tool
 * Create a new layer for non-destructive editing.
     - Click Panels - Layers - New Layer - Rename layer it to 'Remove Object'. 

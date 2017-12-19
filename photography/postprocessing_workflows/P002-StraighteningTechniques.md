@@ -1,5 +1,8 @@
 # Description: Straightening Techniques
 
+### Concepts
+* None
+
 ### Method 1
 * Get a ruler by clicking Menu - View Rulers.
 * Drag a horizontal or a vertical ruler on the image. 

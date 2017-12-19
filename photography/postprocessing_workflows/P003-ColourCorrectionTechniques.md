@@ -1,5 +1,8 @@
 # Description: Color Correction Techniques
 
+### Concepts
+* None
+
 ### Method 1: Using LEVELS Color Correction Masks
 * Click Panel - Layer Panel - New Adjustment Layer - Levels.
 * Choose RED color and adjust the slider to discard unused RED area.

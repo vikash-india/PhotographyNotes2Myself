@@ -1,5 +1,8 @@
 # Description: Image Sharpening Techniques
 
+### Concepts
+* None
+
 ### Method 1: Using Smart Sharpen Filter
 * Change the image to 16-Bit so that there are more information to work with.
     - Menu - Image - Mode - 16-bits/channel.

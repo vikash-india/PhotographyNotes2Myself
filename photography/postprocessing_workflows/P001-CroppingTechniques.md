@@ -1,5 +1,8 @@
 # Description: Cropping Techniques
 
+### Concepts
+* None
+
 ### Method 1
 * Click Tools - Crop Tool.
 * Drag the edges to get a dynamic crop preview.

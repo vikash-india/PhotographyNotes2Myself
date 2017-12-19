@@ -1,5 +1,8 @@
 # Description: Techniques to Remove Photographic Blemishes
 
+### Concepts
+* None
+
 ### Method 1: Using the Clone Stamp Tool
 * Use the Method 1: Using Clone Stamp Tool described in [Unwanted Object Removal Techniques](postprocessing/P005-UnwantedObjectsRemovalTechniques.md).
 * Use a very small size brush to remove blemishes.

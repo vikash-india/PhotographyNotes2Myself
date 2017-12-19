@@ -16,6 +16,7 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 1. [Techniques to Remove Photographic Blemishes](photography/postprocessing_workflows/P006-PhotographicBlemishesRemovalTechniques.md)
 1. [Techniques to Remove Dark Circles Under the Eyes](photography/postprocessing_workflows/P007-DarkCirlesUnderEyesRemovalTechniques.md)
 1. [Techniques to Enhance Contrasts](photography/postprocessing_workflows/P008-ContrastEnhancementTechniques.md)
+1. [Dodging, Burning and Sponging Techniques](photography/postprocessing_workflows/P009-DodgingBurningAndSpongingTechniques.md)
 
 ### Photography Concepts
 1. [Terminologies](photography/photography_concepts/001-Terminologies.md)

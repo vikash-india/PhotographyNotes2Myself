@@ -1,5 +1,8 @@
 # Description: Techniques to Remove Dark Circles Under the Eyes
 
+### Concepts
+* None
+
 ### Method 1: Using the Patch Tool
 * Click Tools - Healing Brush Tool - Patch Tool.
     - Patch tool is like a selection tool which allows you to select an area and patch it with another area.

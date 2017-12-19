@@ -1,5 +1,8 @@
 # Description: Contrast Improvement Techniques
 
+### Concepts
+* None
+
 ### Method 1: Using Curve Adjustment Layer
 * Read about [Understanding Curves](../photoshop_concepts/P003-UnderstandingCurves.md).
 * Click Panel - Layer Panel - New Adjustment Layer - Curves.
