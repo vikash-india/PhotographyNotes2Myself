@@ -5,7 +5,9 @@
 * Burning is a technique to darken an area of an image. 
 * Sponging is a technique to increase or decrease the saturation of colors in an area of an image. 
 * Dodging, burning and sponging should ONLY be used for enhancing a selective area of an image and NOT the whole image.
-* It is possible to use dodging in one area of an image and burning on another area in the same image. 
+* It is possible to use dodging in one area of an image and burning on another area of the same image.
+* Dodging, burning and sponging are concepts and can be applied without using the dodge and burn tools. Method 5 and 6 
+  are such examples of dodging and burning without using the dodge and burn tools. 
 
 ### Method 1: Lighten up an area using Dodge Tool
 * Duplicate the layer for non-destructive editing.
@@ -15,7 +17,7 @@
         - Start with midtones even when working on Shadow areas.
     - Exposure: 40%. 
         - This value decide how aggressive is the dodge tool.
-        - Start with a value of 25%-40% and find a comfort zone.
+        - Start with a value of 25%-40% and find a comfort zone for each image.
     - Enable Air Brush Style Build-up Effects: Off
         - Turn this on if working on a tablet with pressure pen.
         - This uses pressure to control the size of the brush and the exposure.  
@@ -24,14 +26,14 @@
     - Always Use Pressure for Size: Off
         - Turn this on if working on a tablet with pressure pen.
         - This uses titling of the brush to get a different brush size.
-* Choose appropriate brush size and rub on the area of an image to lighten it up. 
+* Choose appropriate brush size and rub on an area of an image to lighten it up. 
     - Use [ or ] to increase of decrease the brush size. 
-    - Keep adjusting the size of the brush to match with the image area. 
+    - Keep adjusting the size of the brush to match the area size of the image. 
     - Do not overlap an area otherwise it will lightened up more. 
     - Rubbing on an area multiple times lightens the image multiple times.
     - Use the same speed to rub an area.
 *  Fix an area lightened up by mistake.
-    - Sometime the dodging and burning might cross the desired area and lighten an already highlighted area or further 
+    - Sometime dodging and burning might cross the desired area and lighten an already highlighted area or further 
       darken an area which is already in the shadow. 
     - Create a new layer.
     - Click Tools - History Brush Tool - History Brush Tool.
@@ -50,7 +52,7 @@
     - Protect Tone: Checked
     - Always Use Pressure for Size: Off
 * Choose appropriate brush size and rub on the area of an image to darken it.
-    - Same rules of Method 1 applies to burn tool as well.
+    - Same rules of dodge tool described in method 1 applies to burn tool as well.
      
 ### Method 3: Dodging, Burning and Sponging Using the Quick Mask Selection Tool
 * Duplicate the layer for non-destructive editing.
@@ -81,7 +83,7 @@
             - This is to set how fast it works.
             - Start with 25% and find the appropriate levels. 
         - Vibrance: Checked
-        - Other values as default.
+        - Leave other option values to their default values.
 * Alternatively, one can use the burn tool from method 2 to darken the selected area and use the sponge tool with mode 
   as Desaturate to remove the colors.
 
@@ -101,10 +103,31 @@
     - Change the spacing to give a natural effect to the brush.
 
 ### Method 5: Dodging and Burning Using Layer Masks
-* TODO
+* Duplicate the layer for non-destructive editing.
+* Use any of the [Selection Techniques](P000a-SelectionTechniques.md) to make a selection from an image that needs 
+  dodging and burning.
+* Click Panel - Layer Panel - New Adjustment Layer - Exposure.
+    - This will create an exposure adjustment layer with selection highlighted in white and other area in black.
+    - Adjustment to exposure will only affect the white area leaving the black area of the image unchanged.
+    - This technique should be used when a large portion of an image needs a correction. 
+    - Dodging and burning can be applied without using the dodge and burn tool.    
+* Click on the Adjustments panel and increase the exposure to lighten up the area or decrease the exposure to darken the 
+  area.
+* Use any of the [Color Balancing Techniques](P003a-ColorBalancingTechniques.md) to balance the colors if required. 
 
-### Method 6: Dodging and Burning Using Layer Blending Mode
-* TODO
+### Method 6: Dodging and Burning Using Layer Blending Modes
+* Duplicate the layer for non-destructive editing.
+* Click Panels - Layers - Select Screen from the Layer Blending Modes dropdown.
+    - The Screen mode is used to lighten up the layer.
+    - The Multiple mode is used to darken up the layer. 
+    - Layers with blending mode can be duplicated to apply the blending modes multiple times and increase the effect. 
+* The blending mode applies to whole layer. Use layer mask to apply the changes to only a portion of the image.
+    - Choose the layer on which the Screen Blending Mode has been applied. 
+    - Make a selection on the image layer.
+    - Create a layer mask by clicking Panels - Layer Panel - Add Vector Mask (Layer Mask). 
+        - Now the Screen mode only applies to the white area in the layer mask.
+* Duplicate this layer with layer mask to increase the effect of blending modes. Adjust the opacity of the layer to 
+  control 
     
 ### Notes
 * None
