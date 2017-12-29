@@ -104,7 +104,7 @@
 
 ### Method 5: Dodging and Burning Using Layer Masks
 * Duplicate the layer for non-destructive editing.
-* Use any of the [Selection Techniques](P000a-SelectionTechniques.md) to make a selection from an image that needs 
+* Use any of the [Selection Techniques](P001-SelectionTechniques.md) to make a selection from an image that needs 
   dodging and burning.
 * Click Panel - Layer Panel - New Adjustment Layer - Exposure.
     - This will create an exposure adjustment layer with selection highlighted in white and other area in black.
@@ -113,7 +113,7 @@
     - Dodging and burning can be applied without using the dodge and burn tool.    
 * Click on the Adjustments panel and increase the exposure to lighten up the area or decrease the exposure to darken the 
   area.
-* Use any of the [Color Balancing Techniques](P003a-ColorBalancingTechniques.md) to balance the colors if required. 
+* Use any of the [Color Balancing Techniques](P005-ColorBalancingTechniques.md) to balance the colors if required. 
 
 ### Method 6: Dodging and Burning Using Layer Blending Modes
 * Duplicate the layer for non-destructive editing.

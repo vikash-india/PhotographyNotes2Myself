@@ -71,7 +71,7 @@
 
 ### Method 9: Adding a Fill Flash
 * Open an image.
-* Make a selection using any [Selection techniques](P000a-SelectionTechniques.md).
+* Make a selection using any [Selection techniques](P001-SelectionTechniques.md).
 * Click Mode - Blend Mode
 * Click on Blend Mode - Multiply to make it darker.
 
