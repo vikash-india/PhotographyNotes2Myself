@@ -66,12 +66,12 @@
     - as Linear
     - as Normal
     - Opacity as 100%
-    - 
 * Alt-Click on the layer mask to
+* ###TODO
 
 ### Method 9: Adding a Fill Flash
 * Open an image.
-* Make a selection using any [Selection techniques](#).
+* Make a selection using any [Selection techniques](P000a-SelectionTechniques.md).
 * Click Mode - Blend Mode
 * Click on Blend Mode - Multiply to make it darker.
 
