@@ -8,15 +8,21 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 1. [Initial Setup Workflow](photography/photography_workflows/002-InitialSetupWorkflow.md)
 
 ### Postprocessing Workflows
+1. [Selection Techniques](photography/postprocessing_workflows/P001-SelectionTechniques.md)
 1. [Cropping Techniques](photography/postprocessing_workflows/P002-CroppingTechniques.md)
 1. [Straightening Techniques](photography/postprocessing_workflows/P003-StraighteningTechniques.md)
 1. [Color Correction Techniques](photography/postprocessing_workflows/P004-ColourCorrectionTechniques.md)
+1. [Color Balancing Techniques](photography/postprocessing_workflows/P005-ColorBalancingTechniques.md)
 1. [Image Sharpening Techniques](photography/postprocessing_workflows/P006-SharpeningTechniques.md)
 1. [Techniques to Remove Unwanted Object](photography/postprocessing_workflows/P007-UnwantedObjectsRemovalTechniques.md)
 1. [Techniques to Remove Photographic Blemishes](photography/postprocessing_workflows/P008-PhotographicBlemishesRemovalTechniques.md)
 1. [Techniques to Remove Dark Circles Under the Eyes](photography/postprocessing_workflows/P009-DarkCirlesUnderEyesRemovalTechniques.md)
 1. [Techniques to Enhance Contrasts](photography/postprocessing_workflows/P010-ContrastEnhancementTechniques.md)
 1. [Dodging, Burning and Sponging Techniques](photography/postprocessing_workflows/P010-DodgingBurningAndSpongingTechniques.md)
+1. [Vignetting Techniques](photography/postprocessing_workflows/P012-VignettingTechniques.md)
+1. [Depth Correction Techniques](photography/postprocessing_workflows/P013-DepthCorrectionTechniques.md)
+1. [Landscape Post Processing Techniques](photography/postprocessing_workflows/P021-LandscapePostprocessingTechniques.md)
+1. [Creative Post Processing Techniques](photography/postprocessing_workflows/P023-CreativePostProcessingTechniques.md)
 
 ### Photography Concepts
 1. [Terminologies](photography/photography_concepts/001-Terminologies.md)
