@@ -25,7 +25,7 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
     - [Techniques to Remove Unwanted Object](photography/postprocessing_workflows/P007-UnwantedObjectsRemovalTechniques.md)
     - [Techniques to Remove Photographic Blemishes](photography/postprocessing_workflows/P008-PhotographicBlemishesRemovalTechniques.md)
     - [Techniques to Remove Dark Circles Under the Eyes](photography/postprocessing_workflows/P009-DarkCirlesUnderEyesRemovalTechniques.md)
-    - [Dodging, Burning and Sponging Techniques](photography/postprocessing_workflows/P010-DodgingBurningAndSpongingTechniques.md)
+    - [Dodging, Burning and Sponging Techniques](photography/postprocessing_workflows/P011-DodgingBurningAndSpongingTechniques.md)
 1. Noise Reduction
     - TODO
 1. Lens Corrections
