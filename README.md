@@ -4,11 +4,13 @@
 Photography Notes 2 Myself is a collection of my notes as I explore the joys of photography.
 
 ### Photography Workflows
+1. [Camera Bag Verification Workflow](photography/photography_workflows/001-CameraBagVerificationWorkflow.md)
 1. [Philosophical Workflow](photography/photography_workflows/001-PhilosophicalWorkflow.md)
 1. [Initial Setup Workflow](photography/photography_workflows/002-InitialSetupWorkflow.md)
+1. [Photography Workflow](photography/photography_workflows/003-PhotographyWorkflow.md)
 
 ### Postprocessing Workflows
-1. [Selection Techniques](photography/postprocessing_workflows/P001-SelectionTechniques.md)
+1. Revise Basics [Selection Techniques](photography/postprocessing_workflows/P001-SelectionTechniques.md)
 1. Framing
     - [Straightening Techniques](photography/postprocessing_workflows/P003-StraighteningTechniques.md)
     - [Cropping Techniques](photography/postprocessing_workflows/P002-CroppingTechniques.md)
@@ -45,7 +47,9 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
     - TODO
 
 ### Photography Concepts
-1. [Terminologies](photography/photography_concepts/001-Terminologies.md)
+1. [Photography Vocabulary](photography/photography_concepts/001-PhotographyVocabulary.md)
+1. [Photography Tips](photography/photography_concepts/002-PhotographyTips.md)
+1. [Photography Troubleshooting](photography/photography_concepts/002-PhotographyTroubleshooting.md)
 1. [Understanding Aperture](photography/photography_concepts/002-UnderstandingAperture.md)
 1. [Understanding Shutter Speed](photography/photography_concepts/003-UnderstandingShutterSpeed.md)
 1. [Understanding ISO](photography/photography_concepts/004-UnderstandingISO.md)
@@ -54,10 +58,11 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 1. [Understanding Flash](photography/photography_concepts/007-UnderstandingFlash.md)
 
 ### Photoshop Concepts
+1. [Photoshop Vocabulary](photography/photoshop_concepts/P001-PhotoshopVocabulary.md)
+1. [Photoshop Tips](photography/photoshop_concepts/P002-PhotoshopTips.md)
+1. [Photoshop Troubleshooting](photography/photoshop_concepts/P002-PhotoshopTroubleshooting.md)
 1. [Photoshop Workarea](photography/photoshop_concepts/images/cs6-01-workarea.png)
 1. [Photoshop Keyboard Shortcuts](photography/photoshop_concepts/images/cs6-02-keyboard-shortcuts.jpg)
-1. [Photoshop Tips](photography/photoshop_concepts/P001-Tips.md)
-1. [Photoshop Troubleshooting](photography/photoshop_concepts/P002-Troubleshooting.md)
 1. [Understanding Curves](photography/photoshop_concepts/P003-UnderstandingCurves.md)
 
 ### iPhone 7 Plus Camera Tutorials
@@ -94,4 +99,3 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 ### Online Resources
 * [Photoshop Keyboard Shortcuts](https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html): A list of 
   default keyboard shortcuts for photoshop.
-

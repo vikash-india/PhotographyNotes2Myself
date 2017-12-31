@@ -20,11 +20,8 @@
 - (If needed) Set HDR.
 - (If needed) Use self timer to remove shakes.
 
-### iPhone 7 Plus Initial Setup Workflow
-- None
+### Notes
+* None
 
-### Nikon D7200 Initial Setup Workflow
-- None
-
-### Nikon D90 Initial Setup Workflow
-- None
+### TODO
+* None

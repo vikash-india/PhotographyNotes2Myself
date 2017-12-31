@@ -3,11 +3,8 @@
 ### Write Here Workflow
 - None
 
-### iPhone 7 Plus Workflow
-- None
+### Notes
+* None
 
-### Nikon D7200 Workflow
-- None
-
-### Nikon D90 Workflow
-- None
+### TODO
+* None

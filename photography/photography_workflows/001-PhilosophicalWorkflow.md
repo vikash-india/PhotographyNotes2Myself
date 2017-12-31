@@ -15,3 +15,9 @@
 - Use photography vocabulary.
 - RTFM: Read the f***ing manual.
 - Keep the best pics for sharing and discard everything.
+
+### Notes
+* None
+
+### TODO
+* None
