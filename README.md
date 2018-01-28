@@ -10,7 +10,8 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 1. [Photography Workflow](photography/photography_workflows/003-PhotographyWorkflow.md)
 
 ### Postprocessing Workflows
-1. Revise Basics [Selection Techniques](photography/photoshop_workflows/P001-SelectionTechniques.md)
+1. Quick References
+    - [Selection Techniques](photography/photoshop_workflows/P001-SelectionTechniques.md)
 1. Framing
     - [Straightening Techniques](photography/photoshop_workflows/P003-StraighteningTechniques.md)
     - [Cropping Techniques](photography/photoshop_workflows/P002-CroppingTechniques.md)
