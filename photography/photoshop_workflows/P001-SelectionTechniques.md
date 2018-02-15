@@ -1,12 +1,12 @@
 # Description: Selection Techniques
 
 ### Concepts
-* There are many techniques to make a selection.
-* Multiple selection techniques can be combined to make a single selection.
-* Sometime easier to select the opposite of what needs to be selected. Then invert the selection by clicking 
-  Menu - Select - Inverse Selection. 
-* There are common operations applicable to any selection irrespective of the selection technique used. 
-* Adjust selections
+* There are many techniques to create a selection.
+* Multiple selection techniques can be combined to create a single selection.
+* Sometime it's easier to select the opposite of what needs to be selected. Then invert the selection by clicking 
+  Menu - Select - Inverse Selection.
+* There are common operations applicable to a selection irrespective of the selection technique used. 
+* Adjust Selections
     - Use Shift to add to a selection. 
     - Use Alt to subtract from a selection.
     - Use Shift and Alt together to get an intersection of the selection.

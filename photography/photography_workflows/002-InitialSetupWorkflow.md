@@ -14,7 +14,7 @@
 - Reset camera settings.
 - Set quality image to largest FINE size image.
 - (If needed) Set image types to RAW+JPG.
-- Set to continous or burst mode.
+- Set to continuous or burst mode.
 - Set white balance.
 - (If needed) Set bracketing.
 - (If needed) Set HDR.

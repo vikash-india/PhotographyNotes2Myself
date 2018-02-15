@@ -7,7 +7,10 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 1. [Camera Bag Verification Workflow](photography/photography_workflows/001-CameraBagVerificationWorkflow.md)
 1. [Philosophical Workflow](photography/photography_workflows/001-PhilosophicalWorkflow.md)
 1. [Initial Setup Workflow](photography/photography_workflows/002-InitialSetupWorkflow.md)
-1. [Photography Workflow](photography/photography_workflows/003-PhotographyWorkflow.md)
+1. [General Photography Workflow](photography/photography_workflows/003-GeneralPhotographyWorkflow.md)
+1. [Bird Photography Workflow](photography/photography_workflows/004-BirdPhotographyWorkflow.md)
+1. [Food Photography Workflow](photography/photography_workflows/005-FoodPhotographyWorkflow.md)
+1. [Steelwool Photography Workflow](photography/photography_workflows/006-SteelwoolPhotographyWorkflow.md)
 
 ### Postprocessing Workflows
 1. Quick References
