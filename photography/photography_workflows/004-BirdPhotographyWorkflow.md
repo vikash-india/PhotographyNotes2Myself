@@ -14,27 +14,37 @@
 
 ### Birds Postprocessing Workflow
 * Convert from RAW and recover highlights.
-* Initial Global Sharpening.
-* Partial Local Sharpening.
-    - Eyes Sharpening.
-    - Legs Sharpening.
-    - Tail Sharpening.
-    - Features Sharpening.
+* Create and save selections
+    - Bird
+    - Background
+    - Beak
+    - Eyes
+    - Feet
+    - Tail
+    - Any other relevant feature
+* Initial Global Sharpening
+* Partial Local Sharpening
+    - Bird Sharpening
+    - Beak Sharpening
+    - Eyes Sharpening
+    - Feet Sharpening
+    - Tail Sharpening
+    - Feature Sharpening
 * Framing
-* Final Global Sharpening.
+* Final Global Sharpening
 * Adjust Curves
-    - Globally
-    - Selectively
+    - Global Adjustment
+    - Selective  Adjustment
 * Adjust Levels
-    - Globally
-    - Selectively
+    - Global Adjustment
+    - Selective  Adjustment
 * Separate foreground and background using selections.
     - Emphasize foreground
     - De-emphasize background
-* Reduce feather glare.
+* Reduce feather glare
 * Fix eye-shine or catchlight.
 * Add signature, watermark etc.
-* Apply any creative postprocessing techniques.
+* Apply other creative postprocessing techniques.
 
 ### Notes
 * None

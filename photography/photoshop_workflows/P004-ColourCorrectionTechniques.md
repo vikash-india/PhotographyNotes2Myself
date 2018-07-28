@@ -67,7 +67,7 @@
     - as Normal
     - Opacity as 100%
 * Alt-Click on the layer mask to
-* ###TODO
+* TODO
 
 ### Method 9: Adding a Fill Flash
 * Open an image.

@@ -45,16 +45,17 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
     - [Depth Correction Techniques](photography/photoshop_workflows/P013-DepthCorrectionTechniques.md)
 1. Final Sharpening.
     - [Image Sharpening Techniques](photography/photoshop_workflows/P006-SharpeningTechniques.md)
-1. Specific Post Processing Techniques
-    - [Sky Post Processing Techniques](photography/photoshop_workflows/P051-SkyPostProcessingTechniques.md)
-    - [Black and White Post Processing Techniques](photography/photoshop_workflows/P052-BlackAndWhitePostprocessingTechniques.md)
-    - [Background Post Processing Techniques](photography/photoshop_workflows/P053-BackgroundPostProcessingTechniques.md)
-    - [Foreground Subject Post Processing Techniques](photography/photoshop_workflows/P054-ForegroundSubjectPostProcessingTechniques.md)
 1. Copyrighting & Watermarking
     - Add copyright in metadata.
     - Add watermark on the photo.    
 1. Resizing
     - Resize based on the final publishing medium.
+1. Special Post Processing Techniques
+    - [Sky Post Processing Techniques](photography/photoshop_workflows/P051-SkyPostProcessingTechniques.md)
+    - [Black and White Post Processing Techniques](photography/photoshop_workflows/P052-BlackAndWhitePostprocessingTechniques.md)
+    - [Background Post Processing Techniques](photography/photoshop_workflows/P053-BackgroundPostProcessingTechniques.md)
+    - [Foreground Subject Post Processing Techniques](photography/photoshop_workflows/P054-ForegroundSubjectPostProcessingTechniques.md)
+    - [Convert Physical Negative to Positive](photography/photoshop_workflows/P055-ConvertPhysicalNegativeToPositive.md)
 
 ### Photography Concepts
 1. [Photography References](photography/photography_concepts/001-PhotographyReferences.md)

@@ -43,7 +43,7 @@
 ### Method 1: Selection Using Magical Wand Tool
 * Click Tools - Quick Selection Tool - Magic Wand Tool.
 * Set Options for Magic Wand Tool
-    - Tricks
+    - Tips
         - Experiment with the different values of Tolerance.
         - Experiment Click on different points in images to get the desired selection.
         - Apply this method on skies.
@@ -85,21 +85,27 @@
 * Click Tools - Quick Selection Tool - Quick Selection Tool.
 * Set Options for Quick Selection Tool
     - Brush Size: 30
-        
+        - Experiment with different brush size.
     - Sample All Layers: Unchecked
-        - Set it to checked for using with multiple layers.
+        - Checked: Makes a selection from all the layers. 
+        - Unchecked: select only from the current layer.
     - Auto-Enhance: Checked
         - This is used for enhancing the top layer.
+        - Checked: Automatically refine selection by implementing an algorithm.
 * Start dragging to make a selection. 
 * Use any of the common operations to make the selection more natural. 
+* Tips
+    - Select the Alpha channel and uncheck R, G, and B channel and paint white to remove unwanted selections. 
 * Now work with the selection.
 
 ### Method 3: Selection Using Magnetic Lasso Tool for Detecting Edges
 * Click Tools - Lasso Tool - Magnetic Lasso Tool.
 * Set Options for Magnetic Lasso Tool
     - Feather: 0
-        - Keep this 0 and use Gaussian Blur later on to soften the edges. 
+        - This value is used to soften the edges. 
+        - Keep this 0 and use Gaussian Blur later on to soften the edges later.
     - Anti-alias: Checked
+        - Checked: Smoothing of jagged edges in digital images by averaging the colors of the pixels at a boundary.
     - Width: 10
         - Width of 10 means lasso tool will stick within 10 pixels. 
     - Contrast: 10%
@@ -133,11 +139,11 @@
 * Paint on the image to make a selection. 
     - Use black color to paint the selection.
     - Use white color to remove/subtract from the selection.
-* Click on Quick Mask Mode to highlight the selection. 
+* Click on Quick Mask Mode to highlight the selection.
 * Use any of the common operations to make the selection more natural.
 * Now work with the selection.
 
-### Method 6: Refining a Channels Selection
+### Method 6: Selection Using Channels Selection
 * Choose the layer with the subject.
 * Click Panel - Channel
     - Channels hold the color information. 
@@ -164,25 +170,71 @@
     - Bring back the image by clicking Panels - Channels - Set RGB as checked.
     - Make the selection by clicking Panels - Channels - Ctrl + Click on Copy channel.
     - Use Menu - Select - Inverse Select to select the subject instead of the background.
+
+### Refine Edges of a Selection
+* Main Uses
+    - This is often used to refine complex selection like an hair selection.
+* Make a Selection
+    - Make a selection using any of the above methods.
+* Separate the Selection
+    - Click on Layers panel - Layer Mask tool to separate the selection.     
 * Refine the Edges
     - Click on Menu - Select - Refine Edges.
     - Set Options for Refine Edges
-        - View: Change to black
-        - Edge Detection: Set Smart Radius as Checked.
-        - Smooth: 0-3
-        - Feather: 0
-        - Contrast: 0
-        - Shift Edge: Use the slider to point to the middle.
+        - View Mode
+            - View: Change to black
+                - Marching Ants: The selection will be surrounded by marching ants. Keyboard shortcut is M.
+                - Overlay: The selection will be overlaid by the layer mask which default color is light red. Keyboard  
+                  shortcut is V.
+                - On Black: One of the most used mode. In this mode the area that is not selected is filled with black 
+                  color. It gives a high contrast so its easy for to select the image. Keyboard shortcut is B.
+                - On White: Just opposite of "on black" mode. The area which is not selected will be filled by white  
+                  color. Keyboard shortcut is W.
+                - Black & White: In this mode the area that is selected will be filled by white color and the area that  
+                  is not selected will be filled by black color. Keyboard shortcut is K.
+                - On Layers: In this mode the area which is not selected will becomes transparent. Note that one may see 
+                  check board pattern. That pattern indicates the transparent layer. Keyboard shortcut is L.
+                - Reveal Layer:This mode displays an image without any selection. Keyboard shortcut is R.
+            - Show Radium: Unchecked
+            - Show Original: Unchecked
+        - Edge Detection
+            - Box: Select Refine Radius Tool
+                - Refine Radius Tool: Refines the selection.
+                - Erase Refine Radius Tool: Erases the selection.
+            - Smart Radius: Checked.
+                - Checked: When checked, Photoshop will decide weather the selection is hard (selection of table, chair)  
+                  or soft(hair, fur). 
+                - Always turn on this setting every time.
+            - Radius: 0
+                - Use Radius if Smart Radius is unchecked.
+                - This controls the radius of the refine edge tool. Basically it determines how far should the refine 
+                  edge tool should go to refine your edge.
+        - Adjust Edge
+            - Smooth: 0-3
+                - It smoothens a selection. 
+                - Use it while selecting hair, fur, trees etc.
+            - Feather: 0
+                - It softens the selection. 
+                - It helps a lot when one is creating vignette effect to a photo.
+            - Contrast: 0
+                - It sharpens an edge even if one softens it by using feather or smoothens it by using smooth.
+            - Shift Edge: Use the slider to point to the middle.
+                - -100: This shifts the edge away from the selection. This expands a selection.
+                - 100: This shifts the edge towards the selection. This contract a selection
+        - Output
+            - Decontaminate Colors: Checked
+                - This option helps reduce edge leftover colored pixels around the edges of a selection that one sees 
+                  only after putting the object on a new background. Once this is checked, Photoshop tries to replace 
+                  the color of selected pixels with the color of pixels nearby (whether they’re selected or not). 
+            - Amount: 
+                - Drag the Amount slider to the right to change the color of more edge pixels, or to the left to change 
+                  fewer.
+            - Output: New Layer with Layer Mask
+        - Click OK
     - Paint around the edges to refine it.
         - Use [ or ] to increase or decrease the brush size. 
     - Change the options for Refine Edges
-        - Decontaminate Colors: Checked
-            - Slide the amount to make the selection perfect.    
-        - Output: New Layer with Layer Mask
-        - Click OK
-* Use any of the common operations to make the selection more natural. 
-* Now work with the selection.
-    - [Tip] This method can be used to change the background of the selected subject.   
+* Now work on the selection. 
 
 ### Notes
 * None
