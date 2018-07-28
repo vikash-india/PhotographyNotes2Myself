@@ -57,15 +57,15 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
     - Resize based on the final publishing medium.
 
 ### Photography Concepts
-1. [Photography Vocabulary](photography/photography_concepts/001-PhotographyVocabulary.md)
-1. [Photography Tips](photography/photography_concepts/002-PhotographyTips.md)
-1. [Photography Troubleshooting](photography/photography_concepts/002-PhotographyTroubleshooting.md)
-1. [Understanding Aperture](photography/photography_concepts/002-UnderstandingAperture.md)
-1. [Understanding Shutter Speed](photography/photography_concepts/003-UnderstandingShutterSpeed.md)
-1. [Understanding ISO](photography/photography_concepts/004-UnderstandingISO.md)
-1. [Understanding Lens](photography/photography_concepts/005-UnderstandingLens.md)
-1. [Understanding Exposure](photography/photography_concepts/006-UnderstandingExposure.md)
-1. [Understanding Flash](photography/photography_concepts/007-UnderstandingFlash.md)
+1. [Photography References](photography/photography_concepts/001-PhotographyReferences.md)
+1. [Photography Vocabulary](photography/photography_concepts/002-PhotographyVocabulary.md)
+1. [Photography Tips](photography/photography_concepts/003-PhotographyTips.md)
+1. [Understanding Aperture](photography/photography_concepts/004-UnderstandingAperture.md)
+1. [Understanding Shutter Speed](photography/photography_concepts/005-UnderstandingShutterSpeed.md)
+1. [Understanding ISO](photography/photography_concepts/006-UnderstandingISO.md)
+1. [Understanding Lens](photography/photography_concepts/007-UnderstandingLens.md)
+1. [Understanding Exposure](photography/photography_concepts/008-UnderstandingExposure.md)
+1. [Understanding Flash](photography/photography_concepts/009-UnderstandingFlash.md)
 
 ### Photoshop Concepts
 1. [Photoshop References](photography/photoshop_concepts/P001-PhotoshopReferences.md)
