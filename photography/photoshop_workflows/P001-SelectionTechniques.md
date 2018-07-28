@@ -43,19 +43,42 @@
 ### Method 1: Selection Using Magical Wand Tool
 * Click Tools - Quick Selection Tool - Magic Wand Tool.
 * Set Options for Magic Wand Tool
+    - Tricks
+        - Experiment with the different values of Tolerance.
+        - Experiment Click on different points in images to get the desired selection.
+        - Apply this method on skies.
     - Sample-size: Point Sample
-        - This value comes from the Eye Dropper Tool. If the value is modified for Eye Dropper Tool, it will get 
-          modified here too.
-    - Tolerance: 32
-        - The default value is 32. It has a range of 0-255.
+        - This value comes from the Eye Dropper Tool. Modify the value for Eye Dropper Tool, to modified here too.
+        - Although this option affects the Magic Wand tool, it appears on the Options bar only when the Eyedropper tool 
+          is selected. The Sample Size value means the following
+            - Point Sample: Samples just the color of the pixel clicked.
+            - 3 by 3 Average: Averages the color of the pixel clicked and the surrounding eight pixels.
+            - 5 by 5 Average: Averages the color of the pixel clicked and the surrounding 24 pixels.
+            - 11 by 11 Average: Averages the color of the pixel clicked and the surrounding 120 pixels.
+            - 31 by 31 Average: Averages the color of the pixel clicked and the surrounding 960 pixels.
+            - 51 by 51 Average: Averages the color of the pixel clicked and the surrounding 2,600 pixels.
+            - 101 by 101 Average: Averages the color of the pixel clicked and the surrounding 10,200 pixels.
+    - Tolerance: Start with 32.
+        - The tolerance has a range of 0-255. The default value is 32.
+        - Setting the tolerance to 0 selects one color only.
+        - Setting the Tolerance to 255 selects all colors.
+        - The default value of 32 means that the Magic Wand tool selects all colors that are 16 levels lighter and 16 
+          levels darker than the base color.
+        - If the Magic Wand tool selected more than you wanted it to, lower the Tolerance setting. If it didn’t select 
+          enough, raise the setting.
     - Anti-alias: Checked
+        - Checked: Softens the edge of the selection by one row of pixels.
+        - Unchecked: 
     - Contiguous: Checked
-        - Uncheck this if the same color should be selected even if they are not contiguous.
+        - Checked: Select only pixels that are adjacent to each other. 
+        - Unchecked: Selects all pixels within the range of tolerance, whether they’re adjacent to each other or not.
     - Sample All Layers: Unchecked
+        - Checked: If there are multiple layers, the Magic Wand selects pixels from all visible layers. 
+        - Unchecked: The tool selects pixels from the active layer only.
 * Click on the image to make a selection.
     - Use Shift or Alt to add to or remove from a selection.
 * Use any of the common operations to make the selection more natural. 
-    - Use Gaussian Blur to soften the edges.
+    - Example: Use Gaussian Blur with low values like .3 to soften the edges.
 * Now work with the selection.
 
 ### Method 2: Selection Using Quick Selection Tool

@@ -12,12 +12,12 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 1. [Food Photography Workflow](photography/photography_workflows/005-FoodPhotographyWorkflow.md)
 1. [Steelwool Photography Workflow](photography/photography_workflows/006-SteelwoolPhotographyWorkflow.md)
 
-### Postprocessing Workflows
+### Postprocessing Techniques
 1. Quick References
     - [Selection Techniques](photography/photoshop_workflows/P001-SelectionTechniques.md)
 1. Framing
-    - [Straightening Techniques](photography/photoshop_workflows/P003-StraighteningTechniques.md)
-    - [Cropping Techniques](photography/photoshop_workflows/P002-CroppingTechniques.md)
+    - [Straightening Techniques](photography/photoshop_workflows/P002-StraighteningTechniques.md)
+    - [Cropping Techniques](photography/photoshop_workflows/P003-CroppingTechniques.md)
 1. Whitebalance
     - [Color Correction Techniques](photography/photoshop_workflows/P004-ColourCorrectionTechniques.md)
     - [Color Balancing Techniques](photography/photoshop_workflows/P005-ColorBalancingTechniques.md)
@@ -39,16 +39,21 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 1. Final Framing: Rotate and Crop
 1. Refinements: selective enhancements
     - [Landscape Post Processing Techniques](photography/photoshop_workflows/P021-LandscapePostprocessingTechniques.md)
-    - [Creative Post Processing Techniques](photography/photoshop_workflows/P023-CreativePostProcessingTechniques.md)
+    - [Creative Post Processing Techniques](photography/photoshop_workflows/P053-BackgroundPostProcessingTechniques.md)
     - [Vignetting Techniques](photography/photoshop_workflows/P012-VignettingTechniques.md)
     - [Depth Correction Techniques](photography/photoshop_workflows/P013-DepthCorrectionTechniques.md)
 1. Final Sharpening.
     - [Image Sharpening Techniques](photography/photoshop_workflows/P006-SharpeningTechniques.md)
+1. Specific Post Processing Techniques
+    - [Sky Post Processing Techniques](photography/photoshop_workflows/P051-SkyPostProcessingTechniques.md)
+    - [Black and White Post Processing Techniques](photography/photoshop_workflows/P052-BlackAndWhitePostprocessingTechniques.md)
+    - [Background Post Processing Techniques](photography/photoshop_workflows/P053-BackgroundPostProcessingTechniques.md)
+    - [Foreground Subject Post Processing Techniques](photography/photoshop_workflows/P054-ForegroundSubjectPostProcessingTechniques.md)
 1. Copyrighting & Watermarking
     - Add copyright in metadata.
     - Add watermark on the photo.    
 1. Resizing
-    - TODO
+    - Resize based on the final publishing medium.
 
 ### Photography Concepts
 1. [Photography Vocabulary](photography/photography_concepts/001-PhotographyVocabulary.md)

@@ -1,7 +1,10 @@
 # Description: General Photography Workflow
 
+### Initial Setup Workflow
+* Use [Initial Setup Workflow](002-InitialSetupWorkflow.md).
+
 ### General Photography Workflow
-* Start with Auto exposure mode to break out of pattern. 
+* Start with Auto exposure mode to break out of pattern.
 
 ### General Postprocessing Workflow
 It's best to shoot in RAW but the following workflow will minimise the data loss for JPEGs.
@@ -48,7 +51,7 @@ It's best to shoot in RAW but the following workflow will minimise the data loss
     - Enlarge for a print or downsize for the web or email. 
     - Edit on the largest size possible to work with all the color information that a RAW image offers and resize at the 
       last step.
-
+      
 ### Notes
 * None
 
