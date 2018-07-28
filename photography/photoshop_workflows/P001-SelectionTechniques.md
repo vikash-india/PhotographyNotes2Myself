@@ -85,6 +85,7 @@
 * Click Tools - Quick Selection Tool - Quick Selection Tool.
 * Set Options for Quick Selection Tool
     - Brush Size: 30
+        
     - Sample All Layers: Unchecked
         - Set it to checked for using with multiple layers.
     - Auto-Enhance: Checked
