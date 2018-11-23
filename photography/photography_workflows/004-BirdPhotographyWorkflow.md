@@ -7,13 +7,15 @@
 
 ### Birds Photography Workflow
 * Click bird activities instead of still birds.
-    - Click feeding, singing, nest building, courtship display etc. even while shooting common birds.
+    - Click feeding, singing, nest building, courtship display etc.
+    - Click bird activities of common birds also.
+* Click birds from eye-level or below eye-level.
 * Avoid shallow depth for big birds.
-* Avoid bellyshot pics.
+* Avoid belly-shot pics.
 * Avoid taking pics against the sun.
 
 ### Birds Postprocessing Workflow
-* Convert from RAW and recover highlights.
+* Convert from RAW and recover highlights
 * Create and save selections
     - Bird
     - Background
@@ -38,7 +40,7 @@
 * Adjust Levels
     - Global Adjustment
     - Selective  Adjustment
-* Separate foreground and background using selections.
+* Separate foreground and background using selections
     - Emphasize foreground
     - De-emphasize background
 * Reduce feather glare
