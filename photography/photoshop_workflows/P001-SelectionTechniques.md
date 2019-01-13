@@ -3,7 +3,7 @@
 ### Concepts
 * There are many techniques to create a selection.
 * Multiple selection techniques can be combined to create a single selection.
-* Sometime it's easier to select the opposite of what needs to be selected. Then invert the selection by clicking 
+* Sometimes it's easier to select the opposite of what needs to be selected. Then invert the selection by clicking 
   Menu - Select - Inverse Selection.
 * There are common operations applicable to a selection irrespective of the selection technique used. 
 * Adjust Selections
@@ -124,9 +124,11 @@
 * Click on each of the corners of the subject to make a selections using straight line selection.
     - Click on the starting point to create a selection. 
     - The selection will be available on a new Layer as well as a path in Panels - Paths. 
+    - Double click on "Work Path" and give appropriate name.
 * Adjust the selection to make it more precise 
-    - Tools - Path Selection Tool - Direct Selection Tool.
+    - Click Tools - Path Selection Tool - Direct Selection Tool.
     - Click on the corners and adjust the selection or use the arrow keys to adjust the selection.
+        - Click on Ctrl + One Corner to make only one corner move.
 * Convert the path to Selection
     - Panels - Paths - Load Path as Selection.
 * Use any of the common operations to make the selection more natural. 
