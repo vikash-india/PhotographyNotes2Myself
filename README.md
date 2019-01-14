@@ -73,44 +73,44 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
 
 ### Photoshop Workflows
 1. Quick References
-    - [Selection Techniques](photography/workflows/P001-SelectionTechniques.md)
+    - [Selection Techniques](photoshop/workflows/P001-SelectionTechniques.md)
 1. Framing
-    - [Straightening Techniques](photography/workflows/P002-StraighteningTechniques.md)
-    - [Cropping Techniques](photography/workflows/P003-CroppingTechniques.md)
+    - [Straightening Techniques](photoshop/workflows/P002-StraighteningTechniques.md)
+    - [Cropping Techniques](photoshop/workflows/P003-CroppingTechniques.md)
 1. Whitebalance
-    - [Color Correction Techniques](photography/workflows/P004-ColourCorrectionTechniques.md)
-    - [Color Balancing Techniques](photography/workflows/P005-ColorBalancingTechniques.md)
+    - [Color Correction Techniques](photoshop/workflows/P004-ColourCorrectionTechniques.md)
+    - [Color Balancing Techniques](photoshop/workflows/P005-ColorBalancingTechniques.md)
 1. Exposure
     - None
 1. Contrast (Clarity/Levels/Curves etc)
-    - [Techniques to Enhance Contrasts](photography/workflows/P010-ContrastEnhancementTechniques.md)
+    - [Techniques to Enhance Contrasts](photoshop/workflows/P010-ContrastEnhancementTechniques.md)
 1.  Saturation/Vibrance/Other Color Corrections
     - TODO
 1. Details
-    - [Techniques to Remove Unwanted Object](photography/workflows/P007-UnwantedObjectsRemovalTechniques.md)
-    - [Techniques to Remove Photographic Blemishes](photography/workflows/P008-PhotographicBlemishesRemovalTechniques.md)
-    - [Techniques to Remove Dark Circles Under the Eyes](photography/workflows/P009-DarkCirlesUnderEyesRemovalTechniques.md)
-    - [Dodging, Burning and Sponging Techniques](photography/workflows/P011-DodgingBurningAndSpongingTechniques.md)
+    - [Techniques to Remove Unwanted Object](photoshop/workflows/P007-UnwantedObjectsRemovalTechniques.md)
+    - [Techniques to Remove Photographic Blemishes](photoshop/workflows/P008-PhotographicBlemishesRemovalTechniques.md)
+    - [Techniques to Remove Dark Circles Under the Eyes](photoshop/workflows/P009-DarkCirlesUnderEyesRemovalTechniques.md)
+    - [Dodging, Burning and Sponging Techniques](photoshop/workflows/P011-DodgingBurningAndSpongingTechniques.md)
 1. Noise Reduction
     - TODO
 1. Lens Corrections
     - TODO
 1. Final Framing: Rotate and Crop
 1. Refinements: selective enhancements
-    - [Landscape Post Processing Techniques](photography/workflows/P021-LandscapePostprocessingTechniques.md)
-    - [Creative Post Processing Techniques](photography/workflows/P053-BackgroundPostProcessingTechniques.md)
-    - [Vignetting Techniques](photography/workflows/P012-VignettingTechniques.md)
-    - [Depth Correction Techniques](photography/workflows/P013-DepthCorrectionTechniques.md)
+    - [Landscape Post Processing Techniques](photoshop/workflows/P021-LandscapePostprocessingTechniques.md)
+    - [Creative Post Processing Techniques](photoshop/workflows/P053-BackgroundPostProcessingTechniques.md)
+    - [Vignetting Techniques](photoshop/workflows/P012-VignettingTechniques.md)
+    - [Depth Correction Techniques](photoshop/workflows/P013-DepthCorrectionTechniques.md)
 1. Final Sharpening.
-    - [Image Sharpening Techniques](photography/workflows/P006-SharpeningTechniques.md)
+    - [Image Sharpening Techniques](photoshop/workflows/P006-SharpeningTechniques.md)
 1. Copyrighting & Watermarking
     - Add copyright in metadata.
     - Add watermark on the photo.    
 1. Resizing
     - Resize based on the final publishing medium.
 1. Special Post Processing Techniques
-    - [Sky Post Processing Techniques](photography/workflows/P051-SkyPostProcessingTechniques.md)
-    - [Black and White Post Processing Techniques](photography/workflows/P052-BlackAndWhitePostprocessingTechniques.md)
-    - [Background Post Processing Techniques](photography/workflows/P053-BackgroundPostProcessingTechniques.md)
-    - [Foreground Subject Post Processing Techniques](photography/workflows/P054-ForegroundSubjectPostProcessingTechniques.md)
-    - [Convert Physical Negative to Positive](photography/workflows/P055-ConvertPhysicalNegativeToPositive.md)
+    - [Sky Post Processing Techniques](photoshop/workflows/P051-SkyPostProcessingTechniques.md)
+    - [Black and White Post Processing Techniques](photoshop/workflows/P052-BlackAndWhitePostprocessingTechniques.md)
+    - [Background Post Processing Techniques](photoshop/workflows/P053-BackgroundPostProcessingTechniques.md)
+    - [Foreground Subject Post Processing Techniques](photoshop/workflows/P054-ForegroundSubjectPostProcessingTechniques.md)
+    - [Convert Physical Negative to Positive](photoshop/workflows/P055-ConvertPhysicalNegativeToPositive.md)
