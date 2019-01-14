@@ -24,6 +24,7 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
 1. [How to capture an intimate moment.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-18-shoot-an-intimate-moment.mp4)
 1. [How to shoot a group portrait.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-19-shoot-a-group-portrait.mp4)
 1. [How to shoot a backlit subject.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-20-shoot-a-backlit-subject.mp4)
+
 *Source: [Apple iPhone Photography](https://www.apple.com/in/iphone/photography-how-to/)*
 
 ### Cameras - iPhone 7 Plus
