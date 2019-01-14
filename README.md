@@ -4,7 +4,7 @@
 PhotographyNotes2Myself is a collection of my notes as I explore the joys of photography.
 
 ### Cameras - iPhone 7 Plus - Tutorials
-1. [How to shoot a great portrait.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone_7plus/tutorials/iphone7-01-shoot-great-portrait.mp4)
+1. [How to shoot a great portrait.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-01-shoot-great-portrait.mp4)
 1. [How to shoot a close-up.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone_7plus/tutorials/iphone7-02-shoot-close-up.mp4)
 1. [How to shoot a vertical panorama.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone_7plus/tutorials/iphone7-03-shoot-vertical-pano.mp4)
 1. [How to shoot without a flash.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone_7plus/tutorials/iphone7-04-shoot-without-flash.mp4)
