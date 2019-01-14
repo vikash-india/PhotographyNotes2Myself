@@ -4,7 +4,7 @@
 * None
 
 ### Method 1: Using Curve Adjustment Layer
-* Read about [Understanding Curves](../photoshop_concepts/P004-UnderstandingCurves.md).
+* Read about [Understanding Curves](../../photoshop/photoshop_concepts/P004-UnderstandingCurves.md).
 * Click Panel - Layer Panel - New Adjustment Layer - Curves.
     * Contrast is to make light area lighter and dark areas darker.
     * Click on the middle of the curve line to set the mid tone or grey point. The area on the right of mid tone point 

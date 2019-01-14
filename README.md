@@ -14,7 +14,7 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 
 ### Postprocessing Techniques
 1. Quick References
-    - [Photoshop References](photography/photoshop_concepts/P001-PhotoshopReferences.md)
+    - [Photoshop References](photoshop/photoshop_concepts/P001-PhotoshopReferences.md)
     - [Selection Techniques](photography/photoshop_workflows/P001-SelectionTechniques.md)
 1. Framing
     - [Straightening Techniques](photography/photoshop_workflows/P002-StraighteningTechniques.md)
@@ -69,10 +69,10 @@ Photography Notes 2 Myself is a collection of my notes as I explore the joys of 
 1. [Understanding Flash](photography/photography_concepts/009-UnderstandingFlash.md)
 
 ### Photoshop Concepts
-1. [Photoshop References](photography/photoshop_concepts/P001-PhotoshopReferences.md)
-1. [Photoshop Vocabulary](photography/photoshop_concepts/P002-PhotoshopVocabulary.md)
-1. [Photoshop Tips](photography/photoshop_concepts/P003-PhotoshopTips.md)
-1. [Understanding Curves](photography/photoshop_concepts/P004-UnderstandingCurves.md)
+1. [Photoshop References](photoshop/photoshop_concepts/P001-PhotoshopReferences.md)
+1. [Photoshop Vocabulary](photoshop/photoshop_concepts/P002-PhotoshopVocabulary.md)
+1. [Photoshop Tips](photoshop/photoshop_concepts/P003-PhotoshopTips.md)
+1. [Understanding Curves](photoshop/photoshop_concepts/P004-UnderstandingCurves.md)
 
 ### iPhone 7 Plus Camera Tutorials
 1. [How to shoot a great portrait.](photography/cameras/iphone_7plus/tutorials/iphone7-01-shoot-great-portrait.mp4?raw=true)

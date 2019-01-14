@@ -3,11 +3,11 @@
 ### Understanding Curves
 * Tones on the Curve Lines
 
-    ![](../photoshop_concepts/images/curves-01-tones.jpg)
+    ![](s.jpg)
 
 * Tinkering with the Points on the Curve Lines
 
-    ![](../photoshop_concepts/images/curves-02-corners.jpg)
+    ![](ers.jpg)
     - The X-axis shows black on the left end to white on the right end.
     - The Y-axis shows black at the bottom end to white at the top end.
     - The curve lines stretches from A (bottom-left) corner to C (top-right) corner.
@@ -22,7 +22,7 @@
 
 * Understanding Curves Panel
 
-    ![](../photoshop_concepts/images/curves-03-basics.png)
+    ![](cs.png)
 
 ### Notes
 * None
