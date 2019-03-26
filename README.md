@@ -28,6 +28,14 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
 1. [How to capture an intimate moment.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-18-shoot-an-intimate-moment.mp4)
 1. [How to shoot a group portrait.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-19-shoot-a-group-portrait.mp4)
 1. [How to shoot a backlit subject.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-20-shoot-a-backlit-subject.mp4)
+1. [How to shoot slow-mo.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-21-shoot-a-slo-mo.mp4)
+1. [How to adjust the timing of a slow-mo.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-22-adjust-the-timing-in-a-slo-mo.mp4)
+1. [How to shoot burst mode.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-23-burst-mode.mp4)
+1. [How to create a bouncing image.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-24-bounce.mp4)
+1. [How to adjust color.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-25-adjust-color.mp4)
+1. [How to add a frame.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-26-framing.mp4)
+1. [How to shoot overhead.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-27-shoot-overhead.mp4)
+1. [How to compose using telephoto.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-28-compose-using-telephoto.mp4)
 
 *Source: [Apple iPhone Photography](https://www.apple.com/in/iphone/photography-how-to/)*
 
@@ -55,9 +63,9 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
 1. [Understanding Flash](photography/concepts/009-UnderstandingFlash.md)
 
 ### Photography Workflows
-1. [Camera Bag Verification Workflow](photography/workflows/001-CameraBagVerificationWorkflow.md)
+1. [Camera Bag Verification Workflow](photography/workflows/001-PreTravelWorkflow.md)
 1. [Philosophical Workflow](photography/workflows/001-PhilosophicalWorkflow.md)
-1. [Initial Setup Workflow](photography/workflows/002-InitialSetupWorkflow.md)
+1. [Initial Setup Workflow](photography/workflows/002-GeneralPhotographyWorkflow.md)
 1. [General Photography Workflow](photography/workflows/003-GeneralPhotographyWorkflow.md)
 1. [Bird Photography Workflow](photography/workflows/004-BirdPhotographyWorkflow.md)
 1. [Food Photography Workflow](photography/workflows/005-FoodPhotographyWorkflow.md)
@@ -110,3 +118,6 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
     - [Background Post Processing Techniques](photoshop/workflows/P053-BackgroundPostProcessingTechniques.md)
     - [Foreground Subject Post Processing Techniques](photoshop/workflows/P054-ForegroundSubjectPostProcessingTechniques.md)
     - [Convert Physical Negative to Positive](photoshop/workflows/P055-ConvertPhysicalNegativeToPositive.md)
+
+### Miscellaneous
+1. [Snapseed Notes](miscellaneous/snapseeds.md).
