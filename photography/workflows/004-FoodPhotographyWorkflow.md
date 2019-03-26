@@ -1,7 +1,7 @@
 # Description: Food Photography Workflow
 
 ### Initial Setup Workflow
-* Use [Initial Setup Workflow](002-InitialSetupWorkflow.md).
+* Use [Initial Setup Workflow](002-GeneralPhotographyWorkflow.md).
 
 ### Food Photography Workflow
 * Arial Shots

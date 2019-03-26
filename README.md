@@ -63,13 +63,13 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
 1. [Understanding Flash](photography/concepts/009-UnderstandingFlash.md)
 
 ### Photography Workflows
-1. [Camera Bag Verification Workflow](photography/workflows/001-PreTravelWorkflow.md)
-1. [Philosophical Workflow](photography/workflows/001-PhilosophicalWorkflow.md)
-1. [Initial Setup Workflow](photography/workflows/002-GeneralPhotographyWorkflow.md)
-1. [General Photography Workflow](photography/workflows/003-GeneralPhotographyWorkflow.md)
-1. [Bird Photography Workflow](photography/workflows/004-BirdPhotographyWorkflow.md)
-1. [Food Photography Workflow](photography/workflows/005-FoodPhotographyWorkflow.md)
-1. [Steelwool Photography Workflow](photography/workflows/006-SteelwoolPhotographyWorkflow.md)
+1. [Pre Photography Workflow](photography/workflows/001-PrePhotographyWorkflow.md)
+1. [General Photography Workflow](photography/workflows/002-GeneralPhotographyWorkflow.md)
+1. [Bird Photography Workflow](photography/workflows/003-BirdPhotographyWorkflow.md)
+1. [Food Photography Workflow](photography/workflows/004-FoodPhotographyWorkflow.md)
+1. [Saree Photography Workflow](photography/workflows/005-SareePhotographyWorkflow.md)
+1. [Holi Photography Workflow](photography/workflows/006-HoliPhotographyWorkflow.md)
+1. [Steelwool Photography Workflow](photography/workflows/007-SteelwoolPhotographyWorkflow.md)
 
 ### Photoshop Concepts
 1. [Photoshop References](photoshop/concepts/P001-PhotoshopReferences.md)

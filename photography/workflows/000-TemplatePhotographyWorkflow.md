@@ -1,10 +1,17 @@
 # Description: Write Here Workflow
 
 ### Initial Setup Workflow
-* None
+* Nikon D850
+    - Write Here
+* Nikon D7200
+    - Same as above.
+* Nikon D90
+    - Same as above.
 
 ### WriteHere Photography Workflow
-* None
+* Props
+    - None
+* Write Here
 
 ### WriteHere Postprocessing Workflow
 * None
