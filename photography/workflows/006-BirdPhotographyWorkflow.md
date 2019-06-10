@@ -1,11 +1,16 @@
 # Description: Bird Photography Workflow
 
-### Initial Setup Workflow
+### Camera Gears
+* Use 200-500mm Lens.
+* Props
+    - None
+
+### Camera Settings
 * Single Focus Point
 * Continuous Mode
 * Manual Focus Mode
 
-### Birds Photography Workflow
+### Photography Workflow
 * Click bird activities instead of still birds.
     - Click feeding, singing, nest building, courtship display etc.
     - Click bird activities of common birds also.
@@ -14,7 +19,7 @@
 * Avoid belly-shot pics.
 * Avoid taking pics against the sun.
 
-### Birds Postprocessing Workflow
+### Postprocessing Workflow
 * Convert from RAW and recover highlights
 * Create and save selections
     - Bird
@@ -47,6 +52,9 @@
 * Fix eye-shine or catchlight.
 * Add signature, watermark etc.
 * Apply other creative postprocessing techniques.
+
+### Composition Ideas
+* None
 
 ### Notes
 * None
