@@ -1,9 +1,15 @@
 # Description: Food Photography Workflow
 
-### Initial Setup Workflow
+### Camera Gears
+* 35mm Lens
+* 50mm Lens
+* Props
+    - None
+
+### Camera Settings
 * Use [Initial Setup Workflow](002-GeneralPhotographyWorkflow.md).
 
-### Food Photography Workflow
+### Photography Workflow
 * Arial Shots
 * 45 Degree Angle for closeup food shots.
 * Have food in the air against interesting background.
@@ -16,8 +22,11 @@
 * Use Camera Light of one and use the camera of other.
 * Use paper napkins as the filter for the lights.
 
-### Food Postprocessing Workflow
+### Postprocessing Workflow
 * TODO
+
+### Composition Ideas
+* None
 
 ### Notes
 * None

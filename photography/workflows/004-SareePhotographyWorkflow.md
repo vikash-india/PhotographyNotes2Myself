@@ -1,10 +1,15 @@
 # Description: Saree Photography Workflow
 
-### Initial Setup Workflow
+### Camera Gears
+* WriteHere
+* Props
+    - None
+
+### Camera Settings
 * Use 35mm Lens with Aperture Between 1.8mm to 2.8mm.
 * Take pics from chest height of the subject while standing up.
 
-### Saree Photography Workflow
+### Photography Workflow
 1. Stand Straight and Look Into the Camera. 
     * [View Sample](images/saree-01.jpg)
     * Camera Note: 35mm Lens with Aperture 1.8. Taken from chest level. 
@@ -27,7 +32,10 @@
     * [View Sample](images/saree-02.jpg)
     * Camera Note: 35mm Lens with Aperture 1.8. Taken from eye level. 
 
-### Portrait Postprocessing Workflow
+### Postprocessing Workflow
+* None
+
+### Composition Ideas
 * None
 
 ### Notes

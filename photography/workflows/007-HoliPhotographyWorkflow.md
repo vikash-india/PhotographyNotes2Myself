@@ -1,6 +1,11 @@
 # Description: Holi Photography Workflow
 
-### Initial Setup Workflow
+### Camera Gears
+* WriteHere
+* Props
+    - None
+
+### Camera Settings
 * Nikon D850
     - Write Here
 * Nikon D7200
@@ -8,14 +13,17 @@
 * Nikon D90
     - Same as above.
 
-### Holi Photography Workflow
+### Photography Workflow
 * Props
     - Colourful Sunglasses
     - Gamchha
 * Composition Ideas
     - TODO: Add last year photos.
 
-### Holi Postprocessing Workflow
+### Postprocessing Workflow
+* None
+
+### Composition Ideas
 * None
 
 ### Notes
