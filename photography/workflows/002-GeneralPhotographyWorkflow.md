@@ -1,11 +1,11 @@
 # Description: General Photography Workflow
 
 ### Photography Philosophy
-* Mantras 
+* Mantras
     - ​Sharpness Sharpness and Sharpness!!
     - Composition Composition and Composition!!
     - Focus Focus and Focus!!
-    - Working a Scene: Spend maximum time on working the scene than reviewing images.
+    - Working a Scene: Spend maximum time on working the scene rather than reviewing images.
 * Photography Philosophy
     - Think creatively.
     - Practice everyday.
@@ -16,7 +16,13 @@
     - RTFM: Read the f***ing manual.
     - Keep the best pics for sharing and discard everything.
 
-### Initial Setup Workflow
+### Camera Gears
+* Use MyGearVault app to select appropriate camera gears.
+* Use Travel Planner to select appropriate camera gears.
+* Props
+    - Choose appropriate photography props.
+
+### Camera Settings
 * Nikon D850
     - Format card(s).
     - Reset camera settings.
@@ -32,10 +38,10 @@
 * Nikon D90
     - Same as above.
 
-### General Photography Workflow
+### Photography Workflow
 * Start with Auto exposure mode to break out of pattern.
 
-### General Postprocessing Workflow
+### Postprocessing Workflow
 It's best to shoot in RAW but the following workflow will minimise the data loss for JPEGs.
 1. **Convert from RAW**
     - Convert from RAW to recover highlights.
@@ -80,6 +86,35 @@ It's best to shoot in RAW but the following workflow will minimise the data loss
     - Enlarge for a print or downsize for the web or email. 
     - Edit on the largest size possible to work with all the color information that a RAW image offers and resize at the 
       last step.
+
+### Composition Ideas
+* Subject - Full, Partial
+* Angles - Low, Normal and High
+* Alignments - Vertically, Horizontally or Diagonally 
+* Depth Perspective
+* Macro
+* Shadows
+* Silhouette
+* Reflections
+* Symmetry
+* Screen full of objects
+* Peekaboo Composition
+* Subject - Full and Closeups
+* Peek View
+* Angles - Low, Normal and High
+* Silhouette
+* Reflections
+* Symmetry
+* Shallow Depth Perspective
+* Alignments - Vertically, Horizontally or Diagonally
+* Macro
+* Shadows
+* Light just on the subject
+* Black and white
+* Doing some activity
+* Natural Framing
+* Low light Experiment
+* Sit on the ground and take pics against the backdrop of the sky.
 
 ### Notes
 * None

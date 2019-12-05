@@ -1,4 +1,4 @@
-# Description: Write Here Photography Workflow
+# Description: Gamcha Photography Workflow
 
 ### Camera Gears
 * Common DSLR gears
@@ -22,7 +22,23 @@
 * None
 
 ### Composition Ideas
-* None
+![](images/gamcha-01.jpg)
+
+![](images/gamcha-02.jpg)
+
+![](images/gamcha-03.jpg)
+
+![](images/gamcha-04.jpg)
+
+![](images/gamcha-05.jpg)
+
+![](images/gamcha-06.jpg)
+
+![](images/gamcha-07.jpg)
+
+![](images/gamcha-08.jpg)
+
+![](images/gamcha-09.jpg)
 
 ### Notes
 * None
