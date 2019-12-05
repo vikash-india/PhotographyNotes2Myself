@@ -28,16 +28,26 @@
     - Horizontal Spinning
     - Spinning while you Walk
 
-### Photography Composition Ideas
+### Composition Ideas
 ![](images/steel-wool-01.jpg)
+
 ![](images/steel-wool-02.jpg)
+
 ![](images/steel-wool-03.jpg)
+
 ![](images/steel-wool-04.jpg)
+
 ![](images/steel-wool-05.jpg)
+
 ![](images/steel-wool-06.jpg)
 
-### Composition Ideas
-* None
+![](images/steel-wool-10.jpg)
+
+![](images/steel-wool-09.jpg)
+
+![](images/steel-wool-08.jpg)
+
+![](images/steel-wool-07.jpg)
 
 ### Notes
 * First, set up your camera on the tripod and compose the image. Use a small torch to visualize where the steel wool 
