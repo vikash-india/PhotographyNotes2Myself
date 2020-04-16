@@ -1,5 +1,8 @@
 # PhotographyNotes2Myself
 
+### Introduction
+* Write here
+
 ### About Project
 PhotographyNotes2Myself is a collection of my notes as I explore the joys of photography.
 
