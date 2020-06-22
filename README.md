@@ -9,6 +9,10 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
 | Straightening     |           |          | ![](images/icon-snapseed.png =100x)|
 | Cropping          |           |          |                 |
 
+![](images/icon-snapseed.png =100x)
+
+![](images/icon-snapseed.png)
+
 ### Photoshop Workflows
 1. Quick References
     - [Selection Techniques](photoshop/workflows/P001-SelectionTechniques.md)
