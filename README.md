@@ -3,6 +3,55 @@
 ### About Project
 PhotographyNotes2Myself is a collection of my notes as I explore the joys of photography.
 
+### Photography Post Processing Workflow
+| Post Processing   | Sub Type  | Concept  | Tools           |
+|-------------------|-----------|----------|-----------------|
+| Straightening     |           |          | ![](images/icon-snapseed.png =100x)|
+| Cropping          |           |          |                 |
+
+### Photoshop Workflows
+1. Quick References
+    - [Selection Techniques](photoshop/workflows/P001-SelectionTechniques.md)
+1. Framing
+    - [Straightening Techniques](photoshop/workflows/P002-StraighteningTechniques.md)
+    - [Cropping Techniques](photoshop/workflows/P003-CroppingTechniques.md)
+1. Whitebalance
+    - [Color Correction Techniques](photoshop/workflows/P004-ColourCorrectionTechniques.md)
+    - [Color Balancing Techniques](photoshop/workflows/P005-ColorBalancingTechniques.md)
+1. Exposure
+    - None
+1. Contrast (Clarity/Levels/Curves etc)
+    - [Techniques to Enhance Contrasts](photoshop/workflows/P010-ContrastEnhancementTechniques.md)
+1.  Saturation/Vibrance/Other Color Corrections
+    - TODO
+1. Details
+    - [Techniques to Remove Unwanted Object](photoshop/workflows/P007-UnwantedObjectsRemovalTechniques.md)
+    - [Techniques to Remove Photographic Blemishes](photoshop/workflows/P008-PhotographicBlemishesRemovalTechniques.md)
+    - [Techniques to Remove Dark Circles Under the Eyes](photoshop/workflows/P009-DarkCirlesUnderEyesRemovalTechniques.md)
+    - [Dodging, Burning and Sponging Techniques](photoshop/workflows/P011-DodgingBurningAndSpongingTechniques.md)
+1. Noise Reduction
+    - TODO
+1. Lens Corrections
+    - TODO
+1. Final Framing: Rotate and Crop
+1. Refinements: selective enhancements
+    - [Vignetting Techniques](photoshop/workflows/P012-VignettingTechniques.md)
+    - [Depth Correction Techniques](photoshop/workflows/P013-DepthCorrectionTechniques.md)
+1. Final Sharpening.
+    - [Image Sharpening Techniques](photoshop/workflows/P006-SharpeningTechniques.md)
+1. Copyrighting & Watermarking
+    - Add copyright in metadata.
+    - Add watermark on the photo.    
+1. Resizing
+    - Resize based on the final publishing medium.
+1. Special Post Processing Techniques
+    - [Sky Post Processing Techniques](photoshop/workflows/P051-SkyPostProcessingTechniques.md)
+    - [Black and White Post Processing Techniques](photoshop/workflows/P052-BlackAndWhitePostprocessingTechniques.md)
+    - [Background Post Processing Techniques](photoshop/workflows/P053-BackgroundPostProcessingTechniques.md)
+    - [Foreground Subject Post Processing Techniques](photoshop/workflows/P054-ForegroundSubjectPostProcessingTechniques.md)
+    - [Convert Physical Negative to Positive](photoshop/workflows/P055-ConvertPhysicalNegativeToPositive.md)
+
+
 ### Cameras
 * None
 
@@ -77,47 +126,7 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
 1. [Photoshop Tips](photoshop/concepts/P003-PhotoshopTips.md)
 1. [Understanding Curves](photoshop/concepts/P004-UnderstandingCurves.md)
 
-### Photoshop Workflows
-1. Quick References
-    - [Selection Techniques](photoshop/workflows/P001-SelectionTechniques.md)
-1. Framing
-    - [Straightening Techniques](photoshop/workflows/P002-StraighteningTechniques.md)
-    - [Cropping Techniques](photoshop/workflows/P003-CroppingTechniques.md)
-1. Whitebalance
-    - [Color Correction Techniques](photoshop/workflows/P004-ColourCorrectionTechniques.md)
-    - [Color Balancing Techniques](photoshop/workflows/P005-ColorBalancingTechniques.md)
-1. Exposure
-    - None
-1. Contrast (Clarity/Levels/Curves etc)
-    - [Techniques to Enhance Contrasts](photoshop/workflows/P010-ContrastEnhancementTechniques.md)
-1.  Saturation/Vibrance/Other Color Corrections
-    - TODO
-1. Details
-    - [Techniques to Remove Unwanted Object](photoshop/workflows/P007-UnwantedObjectsRemovalTechniques.md)
-    - [Techniques to Remove Photographic Blemishes](photoshop/workflows/P008-PhotographicBlemishesRemovalTechniques.md)
-    - [Techniques to Remove Dark Circles Under the Eyes](photoshop/workflows/P009-DarkCirlesUnderEyesRemovalTechniques.md)
-    - [Dodging, Burning and Sponging Techniques](photoshop/workflows/P011-DodgingBurningAndSpongingTechniques.md)
-1. Noise Reduction
-    - TODO
-1. Lens Corrections
-    - TODO
-1. Final Framing: Rotate and Crop
-1. Refinements: selective enhancements
-    - [Vignetting Techniques](photoshop/workflows/P012-VignettingTechniques.md)
-    - [Depth Correction Techniques](photoshop/workflows/P013-DepthCorrectionTechniques.md)
-1. Final Sharpening.
-    - [Image Sharpening Techniques](photoshop/workflows/P006-SharpeningTechniques.md)
-1. Copyrighting & Watermarking
-    - Add copyright in metadata.
-    - Add watermark on the photo.    
-1. Resizing
-    - Resize based on the final publishing medium.
-1. Special Post Processing Techniques
-    - [Sky Post Processing Techniques](photoshop/workflows/P051-SkyPostProcessingTechniques.md)
-    - [Black and White Post Processing Techniques](photoshop/workflows/P052-BlackAndWhitePostprocessingTechniques.md)
-    - [Background Post Processing Techniques](photoshop/workflows/P053-BackgroundPostProcessingTechniques.md)
-    - [Foreground Subject Post Processing Techniques](photoshop/workflows/P054-ForegroundSubjectPostProcessingTechniques.md)
-    - [Convert Physical Negative to Positive](photoshop/workflows/P055-ConvertPhysicalNegativeToPositive.md)
+
 
 ### Miscellaneous
 1. [Snapseed Notes](miscellaneous/snapseeds.md).
