@@ -6,12 +6,8 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
 ### Photography Post Processing Workflow
 | Post Processing   | Sub Type  | Concept  | Tools           |
 |-------------------|-----------|----------|-----------------|
-| Straightening     |           |          | ![](images/icon-snapseed.png =100x)|
+| Straightening     |           |          | ![](images/icon-snapseed-small.png) ![](images/icon-snapseed-small.png) |
 | Cropping          |           |          |                 |
-
-![](images/icon-snapseed.png =100x)
-
-![](images/icon-snapseed.png)
 
 ### Photoshop Workflows
 1. Quick References
