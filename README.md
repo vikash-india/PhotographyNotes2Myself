@@ -3,18 +3,54 @@
 ### About Project
 PhotographyNotes2Myself is a collection of my notes as I explore the joys of photography.
 
+### Table of Content
+* TODO
+
 ### Photography Post Processing Workflow
-| Post Processing   | Sub Type  | Concept  | Tools           |
-|-------------------|-----------|----------|-----------------|
-| Straightening     |           |          | ![](images/icon-snapseed-small.png) ![](images/icon-snapseed-small.png) |
-| Cropping          |           |          |                 |
+| Technique              | Concepts                                                                                          | Tools           |
+|------------------------|---------------------------------------------------------------------------------------------------|-----------------|
+| Framing                | [Straightening](postprocessing/P001-StraighteningAndPerspectiveCorrections.md)                    | ![](images/icon-ios-photos-small.jpg) ![](images/icon-lightroom-small.png) ![](images/icon-snapseed-small.png) ![](images/icon-photoshop-small.png) |
+|                        | [Perspective Corrections](postprocessing/P001-StraighteningAndPerspectiveCorrections.md)          | ![](images/icon-ios-photos-small.jpg) ![](images/icon-snapseed-small.png) ![](images/icon-photoshop-small.png) |
+|                        | [Cropping](postprocessing/P002-Cropping.md)                                                       | ![](images/icon-ios-photos-small.jpg) ![](images/icon-lightroom-small.png) ![](images/icon-snapseed-small.png) ![](images/icon-photoshop-small.png) |
+| Remove Objects         |  | ![](images/icon-touch-retouch-small.png) ![](images/icon-photoshop-small.png) |
+| Remove Line            |  | ![](images/icon-touch-retouch-small.png) ![](images/icon-photoshop-small.png) |
+| Remove Blemish         |  | ![](images/icon-touch-retouch-small.png) ![](images/icon-photoshop-small.png) |
+| Quick Repair           |  | ![](images/icon-touch-retouch-small.png) ![](images/icon-photoshop-small.png) |
+| Clone Area             |  | ![](images/icon-touch-retouch-small.png) ![](images/icon-photoshop-small.png) |
+| Filters                |  | ![](images/icon-ios-photos-small.jpg) ![](images/icon-snapseed-small.png) |
+| Black & White          |  | ![](images/icon-ios-photos-small.jpg) ![](images/icon-snapseed-small.png) |
+| Add Frames             |  | ![](images/icon-snapseed-small.png) ![](images/icon-live-collage-small.png) ![](images/icon-pic-collage-small.png) |
+| Make Collages          |  | ![](images/icon-live-collage-small.png) ![](images/icon-pic-collage-small.png) |
+| Markup & Handwriting   |  | ![](images/icon-ios-photos-small.jpg) ![](images/icon-procreate-small.png) |
+| Add Personal Signature |  | ![](images/icon-ios-photos-small.jpg) |
+| Add Text in Fonts      |  | ![](images/icon-ios-photos-small.jpg) ![](images/icon-snapseed-small.png) ![](images/icon-live-collage-small.png) ![](images/icon-pic-collage-small.png) |
+| Add Callouts           |  | ![](images/icon-ios-photos-small.jpg) ![](images/icon-live-collage-small.png) ![](images/icon-pic-collage-small.png) |
+| Magnify an Object      |  | ![](images/icon-ios-photos-small.jpg) |
+| Create Gif             | Use iOS Shortcut | ![](images/icon-ios-photos-small.jpg) |
+| Cast Photos to TV      |  | ![](images/icon-google-photos-small.png) |
+
+### List of Applications
+| Application            | Icon                                                      |
+|------------------------|-----------------------------------------------------------|
+| Google Photos          | ![](images/icon-google-photos-small.png)                  |
+| iMovie                 | ![](images/icon-imovie-small.png)                         |
+| Default Photos App     | ![](images/icon-ios-photos-small.jpg)                     |
+| Lightroom              | ![](images/icon-lightroom-small.png)                      |
+| Live Collage           | ![](images/icon-live-collage-small.png)                   |
+| Photoscan              | ![](images/icon-photoscan-small.png)                      |
+| Adobe Photoshop        | ![](images/icon-photoshop-small.png)                      |
+| Pic Collage            | ![](images/icon-pic-collage-small.png)                    |
+| Adobe Premier Rush     | ![](images/icon-premier-rush-small.png)                   |
+| Procreate              | ![](images/icon-procreate-small.png)                      |
+| Snapseed               | ![](images/icon-snapseed-small.png)                       |
+| Touch Retouch          | ![](images/icon-touch-retouch-small.png)                  |
 
 ### Photoshop Workflows
 1. Quick References
     - [Selection Techniques](photoshop/workflows/P001-SelectionTechniques.md)
 1. Framing
-    - [Straightening Techniques](photoshop/workflows/P002-StraighteningTechniques.md)
-    - [Cropping Techniques](photoshop/workflows/P003-CroppingTechniques.md)
+    - [Straightening](photoshop/workflows/P002-StraighteningTechniques.md)
+    - [Cropping](photoshop/workflows/P003-CroppingTechniques.md)
 1. Whitebalance
     - [Color Correction Techniques](photoshop/workflows/P004-ColourCorrectionTechniques.md)
     - [Color Balancing Techniques](photoshop/workflows/P005-ColorBalancingTechniques.md)
