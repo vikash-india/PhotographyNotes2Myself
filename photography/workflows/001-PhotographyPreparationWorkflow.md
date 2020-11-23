@@ -1,15 +1,12 @@
-# Description: Pre Photography Workflow
+# Description: Photography Preperation Workflow
 
-### Pre Photography Workflow
-* Recharge Batteries
-    - Camera Batteries for Nikon D850, Nikon D7200, Nikon D90.
-    - Flash Batteries
-* Travel Packing
-    - Use MyGearVault 
-    - Use Travel Planner
-* Choose photography props.
+### Camera Gears
+* Use MyGearVault app to select appropriate camera gears.
+* Use Travel Planner to select appropriate camera gears.
+* Props
+    - Choose appropriate photography props.
 
-### One Time Initial Setup Workflow
+### Camera Settings
 * Nikon D850
     - Set Copyright message.
     - Set contact details.
@@ -22,6 +19,15 @@
     - Same as above.
 * Nikon D90
     - Same as above.
+
+### Preparation Workflow
+* Recharge Batteries
+    - Camera Batteries for Nikon D850, Nikon D7200, Nikon D90.
+    - Flash Batteries
+* Memory Cards
+    - Transfer data from memory cards.
+    - Format memory cards.
+* Pack all camera gears.
 
 ### Notes
 * None
