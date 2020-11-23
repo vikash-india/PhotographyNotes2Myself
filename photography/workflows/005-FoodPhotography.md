@@ -3,7 +3,7 @@
 ### Composition Ideas
 * Arial Shots
 
-![](images/food-photography-01.jpg | width=100)
+![](images/food-photography-01.jpg)
 
 * 45 Degree Angle for closeup food shots.
 * Have food in the air against interesting background.

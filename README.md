@@ -1,10 +1,14 @@
 # PhotographyNotes2Myself
 
 ### About Project
-PhotographyNotes2Myself is a collection of my notes as I explore the joys of photography.
+PhotographyNotes2Myself is a collection of my notes as I re-learn to see and explore the joys of photography.
 
 ### Table of Content
 * TODO
+
+### References
+* [iPhone Camera Tutorials by Apple](https://www.youtube.com/watch?v=Yx6eIG_Ue5M&list=PLHFlHpPjgk72JW5vfYlzycSgG_Z6EV4hK&index=3)
+* [iPhone 7 Plus Camera Tutorials by Apple](https://www.youtube.com/playlist?list=PLo2eYdZ-E16EMMO4izPsLtb3pGL9CsKGQ)
 
 ### Photography Post Processing Workflow
 | Technique              | Concepts                                                                                          | Tools           |
@@ -87,42 +91,11 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
     - [Foreground Subject Post Processing Techniques](photoshop/workflows/P054-ForegroundSubjectPostProcessingTechniques.md)
     - [Convert Physical Negative to Positive](photoshop/workflows/P055-ConvertPhysicalNegativeToPositive.md)
 
-
 ### Cameras
 * None
 
 ### Cameras - iPhone 7 Plus
-#### Tutorials
-1. [How to shoot a great portrait.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-01-shoot-great-portrait.mp4)
-1. [How to shoot a close-up.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-02-shoot-close-up.mp4)
-1. [How to shoot a vertical panorama.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-03-shoot-vertical-pano.mp4)
-1. [How to shoot without a flash.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-04-shoot-without-flash.mp4)
-1. [How to shoot action.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-05-shoot-action.mp4)
-1. [How to shoot a selfie with the timer.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-06-shoot-selfie-with-the-timer.mp4)
-1. [How to convert to black & white.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-07-shoot-black-and-white.mp4)
-1. [How to capture a unique angle.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-08-shoot-unique-angle.mp4)
-1. [How to shoot with zoom.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-09-shoot-with-zoom.mp4)
-1. [How to shoot a horizon.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-10-shoot-horizon.mp4)
-1. [How to shoot stills while filming.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-11-shoot-stills-while-filming.mp4)
-1. [How to shoot with street light.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-12-shoot-with-street-lights.mp4)
-1. [How to shoot a bold and simple image.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-13-shoot-bold-and-simple.mp4)
-1. [How to shoot during golden hour.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-14-shoot-during-golden-hour.mp4)
-1. [How to shoot a one-handed selfie.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-15-shoot-one-handed-selfie.mp4)
-1. [How to edit a selfie.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-16-edit-a-selfie.mp4)
-1. [How to shoot a sunset silhouette.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-17-shoot-a-sunset-silhouette.mp4)
-1. [How to capture an intimate moment.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-18-shoot-an-intimate-moment.mp4)
-1. [How to shoot a group portrait.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-19-shoot-a-group-portrait.mp4)
-1. [How to shoot a backlit subject.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-20-shoot-a-backlit-subject.mp4)
-1. [How to shoot slow-mo.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-21-shoot-a-slo-mo.mp4)
-1. [How to adjust the timing of a slow-mo.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-22-adjust-the-timing-in-a-slo-mo.mp4)
-1. [How to shoot burst mode.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-23-burst-mode.mp4)
-1. [How to create a bouncing image.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-24-bounce.mp4)
-1. [How to adjust color.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-25-adjust-color.mp4)
-1. [How to add a frame.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-26-framing.mp4)
-1. [How to shoot overhead.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-27-shoot-overhead.mp4)
-1. [How to compose using telephoto.](https://raw.githubusercontent.com/vikash-india/PhotographyNotes2Myself/master/cameras/iphone-7plus/tutorials/iphone7-28-compose-using-telephoto.mp4)
-
-*Source: [Apple iPhone Photography](https://www.apple.com/in/iphone/photography-how-to/)*
+* None
 
 ### Cameras - Nikon D850
 * None
@@ -161,8 +134,6 @@ PhotographyNotes2Myself is a collection of my notes as I explore the joys of pho
 1. [Photoshop Vocabulary](photoshop/concepts/P002-PhotoshopVocabulary.md)
 1. [Photoshop Tips](photoshop/concepts/P003-PhotoshopTips.md)
 1. [Understanding Curves](photoshop/concepts/P004-UnderstandingCurves.md)
-
-
 
 ### Miscellaneous
 1. [Snapseed Notes](miscellaneous/snapseeds.md).
